@@ -3,7 +3,9 @@
 > A discussion paper proposing a "Coordination and Capacity" use case as a specialisation of the OGC MUDDI model, with reference logical data models to support the coordination of infrastructure works and the reporting of network capacity.
 
 **Prepared by:** Dr Neil Brammall, Chris Carlon
+
 **Contact:** [utilitycollaboration@utilityinformationservices.com](mailto:utilitycollaboration@utilityinformationservices.com)
+
 **Version:** Published 1.0 — 26/07/2026
 
 ---
@@ -20,8 +22,6 @@ Governments and regulators around the world see the benefits of works coordinati
 
 While defining standards to consistently describe the information requirements for this area does not on its own unlock barriers to coordination and collaboration, such standards are critical when considering the need for consistent data exchange in different geographies and regulatory regimes, across sectors and between multiple organisations with different roles and priorities across different projects, and may contribute to an ecosystem of tools and processes that support the necessary data sharing and transparency that are enablers to effective coordination. Data standardisation will not solve this problem on its own, but the problem will not be solved comprehensively and at scale without data standards.
 
-The problem statement is presented in **Section 3** and the evidence for action in **Section 4**.
-
 A particular approach to this work is proposed. There is a significant gap between the definition of a Conceptual data model and the development of an implementation that conforms to that model. With little or no direction as to how a specific implementation may be developed, there may be little in common and weak interoperability between different independent implementations, even for a similar use case.
 
 As a general approach to extending the MUDDI model or defining additional use cases, it is recommended that reference Logical Models should be developed and published to help fill this gap between concept and implementation and provide guidance and consistency for other implementers of the MUDDI model. The use cases outlined in this proposal provide a set for which Logical Models can be defined, and these may provide an exemplar and test case for this approach which may then be adopted for future developments.
@@ -30,7 +30,7 @@ Finally, there are likely to be particular sensitivities and security considerat
 
 ## Recommendations
 
-The following recommendations are made (see **Section 8**):
+The following recommendations are made:
 
 - To seek feedback on this paper and form a community of interest.
 - To define in greater detail the use cases outlined in this paper.
@@ -43,4 +43,4 @@ The following recommendations are made (see **Section 8**):
 
 ---
 
-*For the full paper*, see <insert here>
+*For the full paper*, see [here](https://github.com/Utility-Collaboration-Hub/papers-and-research/blob/b85ed3aeae089bde0688cd418942e80beb60539f/collaboration-network-capacity/Utility%20and%20Infrastructure%20Coordination%20and%20Capacity%20-%20Data%20Standardisation%20-%20Publish.pdf).
