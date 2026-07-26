@@ -43,4 +43,4 @@ The following recommendations are made:
 
 ---
 
-*For the full paper*, see [here](https://github.com/Utility-Collaboration-Hub/papers-and-research/blob/b85ed3aeae089bde0688cd418942e80beb60539f/collaboration-network-capacity/Utility%20and%20Infrastructure%20Coordination%20and%20Capacity%20-%20Data%20Standardisation%20-%20Publish.pdf).
+*For the full paper*, see [here](https://github.com/Utility-Collaboration-Hub/papers-and-research/blob/0f999568e147f1a8fb9ff6cab8db05dae0cd2ed8/collaboration-network-capacity/PDF%20-%20Utility%20and%20Infrastructure%20Coordination%20and%20Capacity%20-%20Data%20Standardisation%20-%20Publish.pdf).
